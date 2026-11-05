@@ -37,7 +37,7 @@ MySQL, SQL (DDL, joins, window functions, CASE), star schema and Kimball warehou
 
 ## What was left out, and why
 
-Only the submitted version of each assignment (code + report, plus the Module 4 workbook for Assignment 3) is included. Near-duplicate files under a "DevPatel" name, class practice SQL files, professor slides and assignment instruction sheets, and the MySQL Workbench model file are not included. `techcrunch.csv` is in `data/` because it sits in the Assignment 1 folder and the report analyses it, even though the recipes SQL reads the `recipes` database, not that CSV — the README says so rather than pretending otherwise.
+Only the submitted version of each assignment (code + report, plus the Assignment 3 workbook (.xlsx)) is included. Near-duplicate files under a "DevPatel" name, class practice SQL files, professor slides and assignment instruction sheets, and the MySQL Workbench model file are not included. `techcrunch.csv` is in `data/` because it sits in the Assignment 1 folder and the report analyses it, even though the recipes SQL reads the `recipes` database, not that CSV — the README says so rather than pretending otherwise.
 
 ## Conclusion
 
